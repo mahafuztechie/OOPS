@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\oops\oops\bin\Debug\net6.0\oops.exe
+C:\Users\dell\source\repos\oops\oops\bin\Debug\net6.0\oops.deps.json
+C:\Users\dell\source\repos\oops\oops\bin\Debug\net6.0\oops.runtimeconfig.json
+C:\Users\dell\source\repos\oops\oops\bin\Debug\net6.0\oops.dll
+C:\Users\dell\source\repos\oops\oops\bin\Debug\net6.0\ref\oops.dll
+C:\Users\dell\source\repos\oops\oops\bin\Debug\net6.0\oops.pdb
+C:\Users\dell\source\repos\oops\oops\obj\Debug\net6.0\oops.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\oops\oops\obj\Debug\net6.0\oops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\oops\oops\obj\Debug\net6.0\oops.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\oops\oops\obj\Debug\net6.0\oops.AssemblyInfo.cs
+C:\Users\dell\source\repos\oops\oops\obj\Debug\net6.0\oops.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\oops\oops\obj\Debug\net6.0\oops.dll
+C:\Users\dell\source\repos\oops\oops\obj\Debug\net6.0\ref\oops.dll
+C:\Users\dell\source\repos\oops\oops\obj\Debug\net6.0\oops.pdb
+C:\Users\dell\source\repos\oops\oops\obj\Debug\net6.0\oops.genruntimeconfig.cache
