@@ -4,13 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace oops.inheritance
+namespace oops.Abstraction
 {
-    class Vehicle
+    class Circle : Shape
     {
-        public void Start()
+        public override void DrawShape()
         {
-            Console.WriteLine("vehicle has started");
+            Console.WriteLine("circle is drawn");
         }
+
     }
 }

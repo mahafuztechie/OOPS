@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace oops.inheritance
+namespace oops.Interface_multipleInheritance
 {
-    class Vehicle
+    internal class Cheetah : Animal
     {
-        public void Start()
+        public void run()
         {
-            Console.WriteLine("vehicle has started");
+            Console.WriteLine("Cheetah  runs");
         }
     }
 }

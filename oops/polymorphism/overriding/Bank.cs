@@ -8,7 +8,11 @@ namespace oops.polymorphism.overriding
 {
     internal class Bank
     {
-        public void Savings()
+         public string empName;
+        public int empPhone;
+        public int empSalary;
+        public int balance;
+        public virtual void Savings()
         {
             Console.WriteLine(" creating savings account");
         }

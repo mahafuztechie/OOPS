@@ -8,18 +8,15 @@ namespace oops.polymorphism.overriding
 {
     class Employee : Bank 
     {
-        public string empName;
-        public int empPhone;
-        public int empSalary;
-        int balance;
-        public void empBalance()
+       
+        public void EmpBalance()
         {
             balance = balance + empSalary;
             Console.WriteLine("hello "+ empName+ "your number is " +empPhone);
             Console.WriteLine(" and your balance is : " + balance);
             
         }
-        public new void Savings()
+        public override void Savings()
         {
             Console.WriteLine("hey " + empName + "you created a savings account");
 

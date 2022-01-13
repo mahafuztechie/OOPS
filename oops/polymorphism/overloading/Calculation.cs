@@ -12,7 +12,7 @@ namespace oops.polymorphism.overloading
         public int b;
         public int c;
         public double e;
-        public int add()
+        public int Add()
         {
             Console.WriteLine("enter a number to add");
             int a =  Convert.ToInt32(Console.ReadLine());
@@ -22,7 +22,7 @@ namespace oops.polymorphism.overloading
         }
        
 
-        public double add(float x, double y)
+        public double Add(float x, double y)
         {
             Console.WriteLine("enter a number to add");
             int a = Convert.ToInt32(Console.ReadLine());
@@ -31,7 +31,7 @@ namespace oops.polymorphism.overloading
             Double d = x + y;
             return e = a + b + d;
         }
-        public int add(int x, int y, int z)
+        public int Add(int x, int y, int z)
         {
             Console.WriteLine("enter a number to add");
             int a = Convert.ToInt32(Console.ReadLine());
