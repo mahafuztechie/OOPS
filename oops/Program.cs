@@ -7,6 +7,7 @@ using oops.encapsulation;
 using oops.Abstraction;
 using oops.passbyvalueandref.pass_by_value;
 using oops.passbyvalueandref.passbyreference;
+using oops.Interface_multipleInheritance;
 
 
 /*
@@ -49,4 +50,11 @@ PassByRef pr1 = new PassByRef();
 Console.WriteLine(i);
 pr1.PassRef(ref i);
 Console.WriteLine("after passing value is" + i);
+
+
+IWildAnimal chetah1 = new Cheetah();
+chetah1.Walk();
+
+IAnimal chetah2 = new Cheetah();
+chetah2.Run();
 
